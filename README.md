@@ -14,7 +14,7 @@ Create a Discord Bot using OpenAI API that interacts on the Discord Server.
 - Package installation
 
 ```bash
-cd /./chatgpt-integration-with-discord
+cd YOUR_PROJECT_FOLDER_PATH
 npm install discord.js openai dotenv
 ```
 
@@ -71,6 +71,6 @@ Replace the OPENAI_ORG in your .env file in your project folder.
 - Run Node.js
 
 ```bash
-cd /./chatgpt-integration-with-discord
+cd YOUR_PROJECT_FOLDER_PATH
 node index.js
 ```
