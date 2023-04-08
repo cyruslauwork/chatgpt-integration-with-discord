@@ -32,7 +32,7 @@ https://discord.com/developers/applications/
 
 ![](res/img/discord_bot_token.gif)
 
-Add the following code in your .env file in your project folder, and replace the YOUR_DISCORD_BOT_TOKEN.
+Create .env file in your project folder. Then, add the following code in your .env file in your project folder, and replace the YOUR_DISCORD_BOT_TOKEN.
 
 ```bash
 DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
